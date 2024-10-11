@@ -1,6 +1,0 @@
-@JCB_Cinema_backend.WebAPI_HostAddress = http://localhost:5086
-
-GET {{JCB_Cinema_backend.WebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
